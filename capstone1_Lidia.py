@@ -68,7 +68,7 @@ def input_yesno(prompt):
 
 def menu_1_services():
     """
-    Disini membuat MENU 1
+    Disini membuat MENU 1:
     Showing the Dog Hotel Services, yang mencakup
     harga kamar per ukuran (dari S hinggal XL), 
     menampilkan daftar special needs dog, dan 
@@ -241,7 +241,7 @@ def menu_5_delete_customer():
             break
         else:
             print("Silakan pilih index lain.\n")
-
+"""Terakhir, membuat main loop"""
 while True:
     print("=== SELAMAT DATANG DI DOGHOTEL ===")
     print("1. Layanan Kami")
